@@ -1,0 +1,128 @@
+s	zirui	抱歉，我不是这个意思。
+s	amber	看来不说得更清楚，主人是不会明白的。
+s	zirui	嗯？
+s		琥珀突然气势汹汹地走过来。
+g	cg16
+s		由于太过突然，我还没有任何反应。
+s		我和她的距离就已经近乎为零。
+s		她把我逼到墙边，琥珀似的瞳孔泛着夜光。
+s		如夜间捕食的猎豹，美丽而危险。
+s	zirui	琥珀？你怎么了？
+s	zirui	为什么这么生气？
+s	zirui	我做什么了吗？
+s		她的气息把我死死压制在墙壁上，我们之间的距离再一次压缩了。
+s		但是即便保持着极度亲密的姿势，我却生不起什么非分之想。
+s		反而有种被猛兽盯上的错觉。
+s	amber	主人，你为什么会不知道呢？
+s	amber	明明我已经强调过很多遍了。
+s	zirui	冷静。琥珀你冷静点……
+s	amber	我很冷静哦，主人。
+s	zirui	那你先放开我可以吗？
+s	amber	不～行～哦～
+s		她把音调拖得很长，如同猎人玩弄逃不掉的猎物。
+s		太奇怪了，这样的琥珀太奇怪了。
+s		在她泛着绿光的眼神下，我就像一只没有防备的羊。
+s		除了任人宰割，没有别的选择。
+b	black
+b	door_night
+p	zirui	r	shy
+s	zirui	琥珀，你到底怎么了？
+p	amber	l	yandere
+s	amber	主人才是，主人究竟怎么了？
+s	amber	不听话的是你才对。
+s	amber	为什么就不明白呢？
+s	amber	请放心，我不会伤害主人的。
+s	amber	但是，主人要答应琥珀一件事哦。
+p	zirui	r	sad
+s	zirui	什……什么事……
+s	amber	请相信琥珀，我一定会陪在主人身边的。
+s	amber	我也永远不会背叛主人。
+s	amber	主人请相信我。
+s	zirui	嗯嗯。
+s	amber	我不会伤害主人的，所以请主人不要对其他事产生兴趣。
+s	amber	不要因为好奇去调查。
+s	amber	主人只要知道，我是主人的琥珀就好了，
+s	zirui	嗯……
+p	amber	l	yandereangry
+s	amber	请主人理解，因为有些事不能让主人知道。
+s	amber	有些事一旦被主人知道，琥珀就不能留在主人身边了。
+s	amber	主人不希望被背叛吧。
+s		我吞了吞口水。
+s	amber	琥珀可以发誓，绝对不会做出任何背叛主人的事情。
+p	amber	l	harakuro
+s	amber	但是……如果被主人知道了一些事……
+s	amber	我就不能保证了，为了留在主人身边……琥珀什么都愿意做哦。
+s	amber	即便，是只有主人和琥珀的世界……
+s	amber	所以为了安全，主人最好不要再去调查了。
+s		她的眼睛慢慢恢复平静，但深处实际还蕴含着某种疯狂。
+s		只是……明明还在害怕的我……依旧……
+s		心底产生了一种情绪……
+p	zirui	r	normal
+s	zirui	不会的。
+s		我毫无根据地说出这句话。
+s	amber	什么？
+s	zirui	琥珀很善良，绝对不会做出出格的事情。
+p	amber	l	yandereangry
+s	amber	主人……主人在说什么？
+s		她的语气不再那么疯狂，而是带了些疑惑。
+s	zirui	怎么？不是这样吗？
+s	zirui	琥珀刚刚也说过，不会做伤害我的事情。
+s	amber	主人这是……犯规。
+s		她叹了口气。
+p	amber	l	contempt
+s	amber	为什么要说这样欺负人的话。
+s		然后，变回了原来的琥珀。
+s		熟悉的表情、熟悉的语气。
+p	zirui	r	shy
+s	zirui	是是～
+s		终于能从那压抑的气氛里逃出来了。
+s		能变回原来的琥珀真是太好了。
+p	amber	l	angry
+s	amber	为什么主人就是不明白嘛。
+s		现在的她就像受委屈的小孩一样。
+s	zirui	是为了陪在我身边对吧。
+s		真是太好了。
+s		那样陌生的琥珀，希望以后不会再见到。
+s		任性也好、自私也罢。
+s		还是现在的她更能给我安心的感觉。
+s	zirui	我明白了。
+s	zirui	我以后不会去好奇，也不会去调查。
+s	zirui	只要你在就好，可以了吧？
+s		如果她是因为这些而不安，那我就不去碰它。
+s		只要她在身边就够了。
+s		真相什么的，完全不重要。
+p	amber	l	happy
+s	amber	真的？
+p	zirui	r	normal
+s	zirui	真的，我保证。
+s	zirui	只要琥珀也保证不会离开。
+s	amber	我保证！
+s	amber	主人，你不怕我吗？
+s	zirui	怕，怕得要死。
+s	amber	啊？
+s	zirui	我怕你的出现只是我做的梦。
+s	zirui	等到我醒来，你就不在了。
+s	zirui	我恨不得把你关在屋子里，这样永远也逃不掉。
+p	amber	l	glad
+s	amber	呵呵……
+s	zirui	怎么样？你害怕吗？
+s	zirui	我这种性格可是很危险的哦。
+s	amber	呵呵……
+s	zirui	你笑什么嘛？
+s	amber	因为琥珀听到刚刚那些话，很幸福哦。
+s	amber	能和主人永远在一起什么的。
+b	scenery_stars
+s	zirui	什么啊，原来最危险的是你啊。
+s	amber	可是主人并不害怕，不是吗？
+s	zirui	是啊，到底是为什么？
+s	zirui	为什么对你始终设不下防线。
+s	amber	莫非是因为我可爱？
+s	zirui	也许就是这个原因吧。
+s	amber	等……等等，我只是开玩笑……
+s	zirui	不会啊，我是真的觉得琥珀很可爱。
+s	amber	又……又来欺负人。
+s	zirui	明明是你自己说的呀。
+s	amber	今天的主人特别坏。
+s	amber	没想到主人是这么坏的人，我被你骗了。
+s	zirui	谁叫你刚刚那样吓我。
+s	amber	哼～明明是主人的错。

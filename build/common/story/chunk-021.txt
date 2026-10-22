@@ -1,0 +1,128 @@
+s	amber	……当然是！
+s	amber	还是大吵特吵那种。
+s	zirui	是是，是我的错。
+s		没错，趁现在放下身段。
+p	amber	l	normal
+s	amber	……主人知道错了？
+s	zirui	嗯。
+s	amber	那……主人说说哪里错了？
+s		你看，对方慢慢就不会闹别扭了。
+s	zirui	我错……错在我不应该吃醋。
+s	amber	嗯？
+s	zirui	我不应该妒忌林偌吟。
+p	amber	l	sad
+s	amber	那个……
+s	zirui	不该因为你们玩得很开心而吃醋，也不该因为你不理我而吃醋。
+p	amber	l	petrifaction
+s	amber	……不是这样的。
+s		她的脸从气鼓鼓渐渐变成惊慌失措的样子。
+p	zirui	r	angry
+s	zirui	我以后绝对不会吃醋。
+s	zirui	哪怕你不理我，哪怕你和别人玩的很开心。
+s	zirui	我也不会吃半点醋。
+p	amber	l	dame
+s	amber	不行！
+p	zirui	r	normal
+s	zirui	什么不行？
+p	amber	l	angry
+s	amber	这种情况，主人必须吃醋。
+s	zirui	……
+p	amber	l	normal
+s	amber	不是这样的，我……我刚刚也是因为……
+s		她满脸透红，头低下去。
+s	amber	我只是不想看到主人和其他女孩关系这么好……
+s	amber	一想到主人会被抢走……
+s	zirui	傻瓜！
+b	scenery_qingkong
+s		我用力弹她的额头。
+s	amber	啊！干嘛啦？
+s	zirui	我不会被人抢走哦。
+s	amber	可是……
+s	zirui	看来不行动一下，你是不会理解了。
+s		我顺势拉近与她的距离，将她拥进怀里。
+s	amber	啊……
+s	zirui	现在明白了吗？
+s	amber	嗯……
+s		她乖巧地回答，眼眶里闪着泪光。
+s	zirui	我不会被人抢走的。
+s	zirui	说到底，我除了你之外，一点也不想和其他人交流。
+s	zirui	只有和你在一起，我才能安心。
+s	zirui	这样的我，怎么可能离开你呢？
+s	amber	……嗯。
+s	zirui	现在你明白了吧？
+s	amber	……不公平。
+s	zirui	哪里？
+s	amber	现在主人分明是在报复昨天的事情。
+s	zirui	哼~明明是琥珀的错。
+s		我故意模仿着她昨天说话的语气。
+s	amber	犯规。
+s	amber	明明说好要补偿我的，结果今天还是主人欺负我。
+s	zirui	我哪有欺负你？
+s		我装作什么都不知道，在心里暗暗偷笑。
+s		琥珀实在太可爱了，让我忍不住想要捉弄她。
+s	amber	你有。
+s	zirui	是是~
+s	zirui	我的琥珀呀，也太爱撒娇了吧。
+s	amber	才没有~
+s	zirui	走吧，我的小猫咪。
+s	amber	去哪？
+s	zirui	当然是回商场啦。
+s	amber	主人……又要去找林偌吟？
+s	amber	啊……干嘛又弹我额头？
+s	zirui	傻瓜。
+s	zirui	当然是我们自己玩。
+s	zirui	本来我可是很期待今天二人约会的，你可要好好补偿我。
+s	amber	啊……明明说好今天主人补偿我的。
+s	zirui	走吧。
+s		天空挂着幸福的太阳，我和身边的少女牵着手在长长的路上走下去。
+s	amber	哼哼哼~
+s		身边的少女哼着不知名的曲调，显得非常开心。
+s	zirui	这是什么歌？好像经常听你唱。
+s	amber	嗯，很好听是吧，这是……奇怪？
+s	amber	我好像忘记了。
+s	zirui	这样啊，那我们以后一起调查吧。
+s		路的两侧尽是令人恐惧的人群，但也没关系。
+s		只要我身边还有她，就什么也不需要害怕了。
+b	black
+b	end
+c	后日谈 · 夏日
+b	black
+s		时间是3点50分，快到时候了。
+g	cg01
+s	neko	喵~
+s		床下的黑猫慵懒地叫了一声，似乎在说“出门小心”。
+s		能把猫当做人想象，我也是怪人一个。
+s	zirui	啊，差点忘了，该去接琉璃了。
+s	zirui	4点半到站，现在过去还来得及。
+g	cg01_1
+s		因为有些事要解释清楚，趁着周末，琉璃就回她姑姑家去了。
+s		而我约好要去车站接她，现在正是该出发的时间。
+s	zirui	我走了。
+s		我向黑猫招呼着。
+b	door_day
+s	neighbor	啊呀，要出门吗？
+s		出门刚好遇到好心的邻居奶奶。
+s		我连忙挤出微笑。
+s	zirui	奶奶好。是的，我正打算去接琉璃回来。
+s		虽然笑容比较勉强，但也比前几天好很多了。
+s		相信继续努力下去，我肯定能更加自然地和人交流。
+s	neighbor	那个姑娘啊……呵呵，你们关系真好啊。
+s	neighbor	刚好今天我煲了汤，你们有空可以过来喝。
+s	zirui	……好，谢谢奶奶。
+s	neighbor	呵呵，丫头的精气神看起来变好了。
+s	neighbor	以前你可不愿意搭理我这个老太婆。
+s	zirui	不……不是的，我只是……不想给您添麻烦。
+s	neighbor	呵呵，我老太婆一个，有什么麻烦的。
+s		老奶奶似乎真的感到开心，慈祥地拍着我手背。
+s		我对此有点不好意思。
+s	zirui	奶奶，我要去接琉璃了。
+s	neighbor	去吧，去吧。
+b	street3_day
+s		由于怕时间赶不上，我一路小跑着去车站。
+s		空气中还残留湿润的水气，空气有着洗涤后的清新。
+s		这样即便一路小跑，也不会很累。
+s		迎着潮湿的细风，心情格外的轻松。
+b	scenery_qingkong
+s	zirui	哼哼~
+s		情绪伴随着曲调，慢慢从心里流出来。
+s		这首歌的旋律，是我前段时间才想起来的，一首很重要的歌。

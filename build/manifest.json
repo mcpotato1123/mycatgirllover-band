@@ -1,0 +1,70 @@
+{
+  "package": "com.mycatgirllover.band",
+  "name": "我的猫娘恋人",
+  "icon": "/common/img/ui/icon.png",
+  "versionName": "1.0",
+  "versionCode": 1,
+  "minPlatformVersion": 1100,
+  "deviceTypeList": [
+    "watch"
+  ],
+  "features": [
+    {
+      "name": "system.router"
+    },
+    {
+      "name": "system.storage"
+    },
+    {
+      "name": "system.file"
+    },
+    {
+      "name": "system.prompt"
+    },
+    {
+      "name": "system.brightness"
+    }
+  ],
+  "config": {
+    "designWidth": 336,
+    "logLevel": "log"
+  },
+  "router": {
+    "entry": "pages/index",
+    "pages": {
+      "pages/index": {
+        "component": "index"
+      },
+      "pages/game": {
+        "component": "game"
+      },
+      "pages/saves": {
+        "component": "saves"
+      },
+      "pages/chapters": {
+        "component": "chapters"
+      },
+      "pages/cg": {
+        "component": "cg"
+      },
+      "pages/settings": {
+        "component": "settings"
+      },
+      "pages/about": {
+        "component": "about"
+      }
+    }
+  },
+  "display": {
+    "backgroundColor": "#000000"
+  },
+  "minAPILevel": 1,
+  "packageInfo": {
+    "toolkit": "2.0.5",
+    "timeStamp": "2026-10-22T08:17:04.507Z",
+    "node": "v24.21.0",
+    "platform": "win32",
+    "arch": "x64",
+    "component": true
+  }
+}

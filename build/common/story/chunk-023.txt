@@ -1,0 +1,19 @@
+g	cg23_1
+s	zirui	感受到了吗？
+s	warmmu	你刚刚不是说公共场所……
+g	cg23
+s	zirui	现在没有人啦。
+g	cg23_1
+s	warmmu	狡猾……
+s	zirui	今晚邻居奶奶说让我们过去喝汤。
+s	warmmu	嗯~
+s	warmmu	今晚来我房间一起睡吗？
+s	zirui	来我家吧，明天打扫完再去你家。
+b	scenery_qingkong
+s	warmmu	好……
+s	zirui	……
+s	zirui	不放开吗？
+s	zirui	我写了一首歌，你想听听吗？
+s	warmmu	嗯。
+b	black
+e
